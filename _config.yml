@@ -2,7 +2,7 @@
 title: Gyula Nagy
 email: gyula.nagy.baritone@gmail.com
 url: https://tamaslang.github.io/gyulanagy.com
-description: "Baritone, Opera and Oratorio Singer based in the UK and Ireland"
+description: "Baritone, Opera and Oratorio Singer"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -15,7 +15,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://uk.linkedin.com/in/gyula-nagy-1361a0b8
+    url: https://uk.linkedin.com/in/gyula-nagy
 
 # Build settings
 markdown: kramdown
