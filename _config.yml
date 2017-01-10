@@ -7,7 +7,7 @@ description: "Baritone, Opera and Oratorio Singer"
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
-  links: '#219ab3'
+  links: '#B41525'
 
 # Footer settings
 footer: 
