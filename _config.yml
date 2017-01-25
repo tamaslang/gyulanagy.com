@@ -16,7 +16,6 @@ footer:
 social:
   - title: linkedin
     url: https://uk.linkedin.com/in/gyula-nagy
-
 # Build settings
 markdown: kramdown
 permalink: pretty
